@@ -13,7 +13,7 @@ Implemented in python with finite difference methods and customizable with 11 pa
 
 ## Examples
 ### Default Simulation Output
-!["abc"](./code_default_output.png)
+!["abc"](./imgs/code_default_output.png)
 
 ### Interactive Playground
-!["abc"](./code_playground.png)
+!["abc"](./imgs/code_playground.png)

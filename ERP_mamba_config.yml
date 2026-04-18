@@ -1,0 +1,20 @@
+name: mp25-env
+channels:
+- conda-forge
+- anaconda
+dependencies:
+- python >=3.10
+- numpy
+- ultraplot
+- pandas
+- spyder
+- ipython
+- ipykernel
+- ipywidget
+- scipy
+- matplotlib
+- sympy
+- seaborn
+- openpyxl
+- scienceplots
+- scikit-learn

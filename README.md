@@ -6,11 +6,13 @@ Implemented in python with finite difference methods and customizable with 11 pa
 ## Installation
 1. Install python, conda, and mamba according to existing online guides
 1. Create a mamba virtual environment with the given configuration file:
+```
+mamba create -n ERP_sym -f ERP_mamba_config.yml
+```
 
-        ```mamba create -n ERP_sym -f ERP_mamba_config.yml```
-
-        ```mamba activate ERP_sym```
-
+```
+mamba activate ERP_sym
+```
 
 1. Configure VS Code or your preferred code editor to support Jupyter notebooks
 1. Run each cell and play around with the parameters!

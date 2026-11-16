@@ -1,3 +1,5 @@
+_Context: this repository contains the VR-1 exercise report and the associated simulation code._
+
 # Reflector Peaks Simulation
 Basic simulation of a nuclear reactor core as a two-groups, 1D, infinite slab with reflectors, aimed at showing the existence of reflector peaks.
 
